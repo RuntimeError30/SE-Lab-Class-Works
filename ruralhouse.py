@@ -1,1 +1,0 @@
-print("rural house XD")
