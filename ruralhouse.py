@@ -1,0 +1,1 @@
+print("rural house XD")
